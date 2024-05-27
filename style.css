@@ -1,0 +1,9 @@
+
+#usersDiv {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:15px
+}
+#user{
+    border: 1px solid black;
+}
